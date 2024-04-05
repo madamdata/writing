@@ -19,8 +19,8 @@ and it is singing to somewhere -
 so I am saying “I’m not sure there is an art of computation,
 so much as 
 computing art produces wounds we must resolve”
-but in my office is a man 
-this fucking guy wants a program that takes the universe as its input,
+but this fucking guy 
+wants a program that takes the universe as its input,
 and returns a new one, 
 with him in it.
 
